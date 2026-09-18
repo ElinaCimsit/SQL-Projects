@@ -171,28 +171,3 @@ The following query analyzes monthly order volume, revenue, and average order va
 
 [Open the SQLite database file](database/Store_Database)
 
-## Repository Structure
-
-```text
-Customer-Acquisition-Analysis
-│
-├── README.md
-│
-├── data
-│   ├── README.md
-│   ├── customers.csv
-│   └── orders.csv
-│
-├── database
-│   ├── README.md
-│   └── Store_Database
-│
-├── sql
-│   ├── README.md
-│   └── customer-acquisition-analysis.sql
-│
-└── screenshots
-    ├── README.md
-    ├── database-schema.png
-    ├── acquisition-channels-result.png
-    └── monthly-revenue-result.png
